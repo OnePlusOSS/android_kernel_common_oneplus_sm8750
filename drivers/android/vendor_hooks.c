@@ -695,3 +695,4 @@ EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_mm_isolate_priv_lru);
 EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_mm_customize_pgdat_balanced);
 EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_mm_customize_file_is_tiny);
 EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_bio_add_page_merge_bypass);
+EXPORT_TRACEPOINT_SYMBOL_GPL(android_vh_loop_skip_queue_work);
